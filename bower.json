@@ -1,0 +1,24 @@
+{
+  "name": "angular-multipage-app",
+  "description": "AngularJS multipage app based on gulp &amp; Angular 1.x;",
+  "main": "dist/angular-multipage-app.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/angular-multipage-app",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}
